@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ag-theme-material .ag-header-group-cell {
+  font-weight: normal;
+  font-size: 2em;
+  color: black;
+}
+
+.fc-event-main-frame {
+  white-space: normal;
+}
